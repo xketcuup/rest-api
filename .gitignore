@@ -1,0 +1,7 @@
+#Dossiers
+node_modules/
+logs/
+temp/
+
+#Fichiers
+databaseTest.sql
