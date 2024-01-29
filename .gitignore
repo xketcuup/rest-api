@@ -2,6 +2,7 @@
 node_modules/
 logs/
 temp/
+config/
 
 #Fichiers
 databaseTest.sql
